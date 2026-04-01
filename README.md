@@ -1,11 +1,11 @@
 # Olá, eu sou o Thiago 👋
 
-Estudante de Sistemas de Informação na UFSC, focado em criar soluções eficientes e escaláveis para a web e dispositivos móveis. Atualmente, busco aprimorar minhas habilidades em arquitetura de sistemas e sistemas embarcados.
-
 ### Sobre mim
-- Estudando Desenvolvimento de Software (atualmente focado em Sistemas Webs, móveis e embarcados).
+- Estudante de **Sistemas de informação - UFSC**.
+- Estudando Desenvolvimento de Software (atualmente focado em Sistemas Web, móveis e embarcados).
 - Experiência prática com a stack **MERN** (MongoDB, Express, React, Node.js).
 - Experiência com programação orientada a objetos em Python.
+- Noções de Analise de dados em Python (Pandas).
 
 ### Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
