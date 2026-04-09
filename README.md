@@ -17,4 +17,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Como me encontrar
-[![LinkedIn](https://www.linkedin.com/in/thiago-kopsch-fusco-94891a2b6/)
+https://www.linkedin.com/in/thiago-kopsch-fusco-94891a2b6/
+email: kfuscothiago@gmail.com
