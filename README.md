@@ -17,5 +17,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Como me encontrar
-<a href="https://www.linkedin.com/in/thiago-kopsch-fusco-94891a2b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%233498db?style=flat-square&logo=linkedin&color=0077B5&?logoWidth=100&logoColor=FFF" /></a>
+<a href="https://www.linkedin.com/in/thiago-kopsch-fusco-94891a2b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%233498db?style=flat-square&logo=linkedin&color=0077B5&?logoWidth=100&logoColor=FFF" /></a> <br>
 <img alt="kfuscothiago@gmail.com" src="https://img.shields.io/badge/-Gmail-%233498db?style=flat-square&logo=gmail&color=D14836&?logoWidth=100&logoColor=FFF" /> kfuscothiago@gmail.com
