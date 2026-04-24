@@ -18,4 +18,4 @@
 
 ### Como me encontrar
 <a href="https://www.linkedin.com/in/thiago-kopsch-fusco-94891a2b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%233498db?style=flat-square&logo=linkedin&color=0077B5&?logoWidth=100&logoColor=FFF" /></a>
-<a href="mailto:tiagossansao@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Gmail-%233498db?style=flat-square&logo=gmail&color=D14836&?logoWidth=100&logoColor=FFF" />kfuscothiago@gmail.com</a>
+<a target="_blank"><img alt="kfuscothiago@gmail.com" src="https://img.shields.io/badge/-Gmail-%233498db?style=flat-square&logo=gmail&color=D14836&?logoWidth=100&logoColor=FFF" /></a>
